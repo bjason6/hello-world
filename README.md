@@ -1,4 +1,4 @@
 # hello-world
-<bd>This is my github</bd>
+This is my github
 
-I am very trying.... I try several things.  
+<bd>I am very trying.... I try several things.  </bd>
